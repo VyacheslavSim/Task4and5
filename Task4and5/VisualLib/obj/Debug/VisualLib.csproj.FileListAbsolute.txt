@@ -1,0 +1,28 @@
+C:\2 курс\ЯиСП\Task-4and5\VisualLib\bin\Debug\VisualLib.dll
+C:\2 курс\ЯиСП\Task-4and5\VisualLib\bin\Debug\VisualLib.pdb
+C:\2 курс\ЯиСП\Task-4and5\VisualLib\bin\Debug\ClassLib.dll
+C:\2 курс\ЯиСП\Task-4and5\VisualLib\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\2 курс\ЯиСП\Task-4and5\VisualLib\bin\Debug\ClassLib.pdb
+C:\2 курс\ЯиСП\Task-4and5\VisualLib\obj\Debug\VisualLib.csprojAssemblyReference.cache
+C:\2 курс\ЯиСП\Task-4and5\VisualLib\obj\Debug\VisualLib.csproj.CoreCompileInputs.cache
+C:\2 курс\ЯиСП\Task-4and5\VisualLib\obj\Debug\VisualLib.csproj.CopyComplete
+C:\2 курс\ЯиСП\Task-4and5\VisualLib\obj\Debug\VisualLib.dll
+C:\2 курс\ЯиСП\Task-4and5\VisualLib\obj\Debug\VisualLib.pdb
+C:\Users\я\Desktop\Task4and5-master\VisualLib\bin\Debug\VisualLib.dll
+C:\Users\я\Desktop\Task4and5-master\VisualLib\bin\Debug\VisualLib.pdb
+C:\Users\я\Desktop\Task4and5-master\VisualLib\bin\Debug\ClassLib.dll
+C:\Users\я\Desktop\Task4and5-master\VisualLib\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\я\Desktop\Task4and5-master\VisualLib\bin\Debug\ClassLib.pdb
+C:\Users\я\Desktop\Task4and5-master\VisualLib\obj\Debug\VisualLib.csprojResolveAssemblyReference.cache
+C:\Users\я\Desktop\Task4and5-master\VisualLib\obj\Debug\VisualLib.csproj.CoreCompileInputs.cache
+C:\Users\я\Desktop\Task4and5-master\VisualLib\obj\Debug\VisualLib.dll
+C:\Users\я\Desktop\Task4and5-master\VisualLib\obj\Debug\VisualLib.pdb
+C:\2 курс\ЯиСП\Task4and5\VisualLib\bin\Debug\VisualLib.dll
+C:\2 курс\ЯиСП\Task4and5\VisualLib\bin\Debug\VisualLib.pdb
+C:\2 курс\ЯиСП\Task4and5\VisualLib\bin\Debug\ClassLib.dll
+C:\2 курс\ЯиСП\Task4and5\VisualLib\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\2 курс\ЯиСП\Task4and5\VisualLib\bin\Debug\ClassLib.pdb
+C:\2 курс\ЯиСП\Task4and5\VisualLib\obj\Debug\VisualLib.csprojResolveAssemblyReference.cache
+C:\2 курс\ЯиСП\Task4and5\VisualLib\obj\Debug\VisualLib.csproj.CoreCompileInputs.cache
+C:\2 курс\ЯиСП\Task4and5\VisualLib\obj\Debug\VisualLib.dll
+C:\2 курс\ЯиСП\Task4and5\VisualLib\obj\Debug\VisualLib.pdb

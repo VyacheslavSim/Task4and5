@@ -1,0 +1,46 @@
+C:\2 курс\ЯиСП\Task-4and5\Task4\bin\Debug\Task4.exe.config
+C:\2 курс\ЯиСП\Task-4and5\Task4\bin\Debug\Task4.exe
+C:\2 курс\ЯиСП\Task-4and5\Task4\bin\Debug\Task4.pdb
+C:\2 курс\ЯиСП\Task-4and5\Task4\obj\Debug\Task4.csprojAssemblyReference.cache
+C:\2 курс\ЯиСП\Task-4and5\Task4\obj\Debug\Task4.MainWindow.resources
+C:\2 курс\ЯиСП\Task-4and5\Task4\obj\Debug\Task4.Properties.Resources.resources
+C:\2 курс\ЯиСП\Task-4and5\Task4\obj\Debug\Task4.csproj.GenerateResource.cache
+C:\2 курс\ЯиСП\Task-4and5\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+C:\2 курс\ЯиСП\Task-4and5\Task4\obj\Debug\Task4.exe
+C:\2 курс\ЯиСП\Task-4and5\Task4\obj\Debug\Task4.pdb
+C:\2 курс\ЯиСП\Task-4and5\Task4\bin\Debug\ClassLib.dll
+C:\2 курс\ЯиСП\Task-4and5\Task4\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\2 курс\ЯиСП\Task-4and5\Task4\bin\Debug\VisualLib.dll
+C:\2 курс\ЯиСП\Task-4and5\Task4\bin\Debug\ClassLib.pdb
+C:\2 курс\ЯиСП\Task-4and5\Task4\bin\Debug\VisualLib.pdb
+C:\2 курс\ЯиСП\Task-4and5\Task4\obj\Debug\Task4.csproj.CopyComplete
+C:\Users\я\Desktop\Task4and5-master\Task4\bin\Debug\Task4.exe.config
+C:\Users\я\Desktop\Task4and5-master\Task4\bin\Debug\Task4.exe
+C:\Users\я\Desktop\Task4and5-master\Task4\bin\Debug\Task4.pdb
+C:\Users\я\Desktop\Task4and5-master\Task4\bin\Debug\ClassLib.dll
+C:\Users\я\Desktop\Task4and5-master\Task4\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\я\Desktop\Task4and5-master\Task4\bin\Debug\VisualLib.dll
+C:\Users\я\Desktop\Task4and5-master\Task4\bin\Debug\ClassLib.pdb
+C:\Users\я\Desktop\Task4and5-master\Task4\bin\Debug\VisualLib.pdb
+C:\Users\я\Desktop\Task4and5-master\Task4\obj\Debug\Task4.csprojResolveAssemblyReference.cache
+C:\Users\я\Desktop\Task4and5-master\Task4\obj\Debug\Task4.MainWindow.resources
+C:\Users\я\Desktop\Task4and5-master\Task4\obj\Debug\Task4.Properties.Resources.resources
+C:\Users\я\Desktop\Task4and5-master\Task4\obj\Debug\Task4.csproj.GenerateResource.Cache
+C:\Users\я\Desktop\Task4and5-master\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+C:\Users\я\Desktop\Task4and5-master\Task4\obj\Debug\Task4.exe
+C:\Users\я\Desktop\Task4and5-master\Task4\obj\Debug\Task4.pdb
+C:\2 курс\ЯиСП\Task4and5\Task4\bin\Debug\Task4.exe.config
+C:\2 курс\ЯиСП\Task4and5\Task4\bin\Debug\Task4.exe
+C:\2 курс\ЯиСП\Task4and5\Task4\bin\Debug\Task4.pdb
+C:\2 курс\ЯиСП\Task4and5\Task4\bin\Debug\ClassLib.dll
+C:\2 курс\ЯиСП\Task4and5\Task4\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\2 курс\ЯиСП\Task4and5\Task4\bin\Debug\VisualLib.dll
+C:\2 курс\ЯиСП\Task4and5\Task4\bin\Debug\ClassLib.pdb
+C:\2 курс\ЯиСП\Task4and5\Task4\bin\Debug\VisualLib.pdb
+C:\2 курс\ЯиСП\Task4and5\Task4\obj\Debug\Task4.csprojResolveAssemblyReference.cache
+C:\2 курс\ЯиСП\Task4and5\Task4\obj\Debug\Task4.MainWindow.resources
+C:\2 курс\ЯиСП\Task4and5\Task4\obj\Debug\Task4.Properties.Resources.resources
+C:\2 курс\ЯиСП\Task4and5\Task4\obj\Debug\Task4.csproj.GenerateResource.Cache
+C:\2 курс\ЯиСП\Task4and5\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+C:\2 курс\ЯиСП\Task4and5\Task4\obj\Debug\Task4.exe
+C:\2 курс\ЯиСП\Task4and5\Task4\obj\Debug\Task4.pdb
